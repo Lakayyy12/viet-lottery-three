@@ -1,0 +1,71 @@
+<resources>
+    <string name="app_name">Xổ số TP.HCM
+    </string>
+
+    <string name="title1">Vietnam Lottery Games</string>
+    <string name="titcon1">Ở Việt Nam, có rất nhiều trò chơi xổ số, bao gồm xổ số thông thường và trò chơi Keno hàng ngày, xổ số 10 phút một lần!
+Công ty Xổ số điện toán Việt Nam, đơn vị thuộc Bộ Tài chính, ủy quyền bán điểm cho các đơn vị bán lẻ xổ số được ủy quyền trên toàn quốc đối với tất
+        cả các trò chơi xổ số của Việt Nam.</string>
+    <string name="close_button">close_button</string>
+    <string name="back_button">back_button</string>
+
+    <string name="main1">Ở Việt Nam, có rất nhiều trò chơi xổ số, bao gồm xổ số thông thường và trò chơi Keno hàng ngày, xổ số 10 phút một lần!
+Công ty Xổ số điện toán Việt Nam, đơn vị thuộc Bộ Tài chính, ủy quyền bán điểm cho các đơn vị bán lẻ xổ số được ủy quyền trên toàn quốc đối với tất cả các trò chơi xổ số của Việt Nam.</string>
+<string name="main2">Mega 6/45 là một trong hai trò chơi xổ số truyền thống của Việt Nam.
+Người chơi có thể chọn sáu số từ 1 đến 45 hoặc chọn Chọn nhanh cho các số được chọn ngẫu nhiên. Vé có giá 10.000đ. Có thể nhập trước tối đa sáu hình vẽ Mega 6/45 và người chơi có thể chọn tối đa 18 số bằng cách sử dụng "Pocket Entry". Những lựa chọn này sau đó có thể được kết hợp và nhập vào bản vẽ với tổng số 18.564
+    mục nhập! Đây là một kỹ thuật tuyệt vời cho những ai muốn nâng cao tỷ lệ chiến thắng của mình, nhưng nó có thể dẫn đến những tấm vé đắt đỏ!</string>
+    <string name="main3">Với cùng một mức giá vé, Power 6/55 là trò chơi xổ số mang tính biểu tượng thứ hai của Việt Nam, có mức hoàn vốn cao hơn Mega 6/45 đáng kể.
+Người chơi có thể chọn sáu số từ 1 đến 55 hoặc chọn ngẫu nhiên bằng tùy chọn Chọn nhanh. Bạn có thể "Into the Pocket" với tối đa 18 chữ số, giống như Mega 6/45.</string>
+<string name="main4">Trong Max 3D, một trò chơi theo phong cách "Chọn 3" truyền thống, người chơi có 20 cơ hội để giành được phần thưởng trong mỗi lần rút thăm.
+Để chơi Max 3D, người chơi phải xây dựng một số có ba chữ số sử dụng ba chữ số từ 0 đến 9. Mỗi lần, 20 số có ba chữ số được rút ra và bất kỳ ai trùng với bất kỳ số nào trong hai chữ số đầu tiên sẽ giành được giải thưởng. Một phần thưởng phụ dành cho những người có số xuất hiện trong các vòng rút 3 đến 20.</string>
+<string name="main5">Về mặt hình ảnh, Max 4D tương tự như Max 3D, nhưng nó có cấu trúc phần thưởng hơi khác và chỉ mang đến cho người chơi sáu cơ hội để giành chiến thắng thay vì hai mươi.
+Người chơi chọn bốn số từ 0 đến 9 để tạo thành một số có bốn chữ số. Giải độc đắc chỉ dành cho những người chơi trùng khớp với số đầu tiên được rút ra, với các giải thưởng bổ sung được trả cho những người chơi trùng khớp với các số trong các kỳ rút 2 đến 6. Nếu người chơi khớp với hai hoặc ba chữ số cuối cùng của số bốn chữ số đã chọn, họ sẽ nhận được một phần thưởng bổ sung.</string>
+<string name="main6">Rút thăm Keno được tổ chức 10 phút một lần trong khoảng thời gian từ 06:00 đến 21:55. Người chơi có thể nhập tối đa 30 bản vẽ cùng một lúc nếu họ thích, mang đến cho họ nhiều cơ hội giành được phần thưởng cả ngày!
+Giá vé vào cửa là 10.000đ. Người chơi có thể giành giải độc đắc bằng cách kết hợp tất cả 10 số được chọn trong mỗi lần quay thưởng hoặc họ có thể sử dụng tùy chọn Chọn nhanh cho các lựa chọn ngẫu nhiên.</string>
+
+<string name="gp1">Chọn một trò chơi hoàn hảo trong số hàng ngàn giải xổ số trên khắp thế giới có thể là một điều đáng sợ nếu bạn không biết bắt đầu từ đâu, nhưng một khi bạn hiểu những điều cơ bản, bạn sẽ có đủ tự tin để chọn trò chơi phù hợp cho mình.</string>
+<string name="gp2">Cách đơn giản nhất để chọn số xổ số của bạn là sử dụng tùy chọn chọn nhanh hoặc chọn dễ cho các số được chọn ngẫu nhiên. Nếu bạn có một con số may mắn yêu thích, bạn nên kiểm tra số liệu thống kê.</string>
+<string name="gp3">Mặc dù tùy chọn này vẫn có sẵn, nhưng những ngày mua vé số độc quyền trong các cửa hàng đã không còn nữa. Phương thức thuận tiện nhất là mua vé trực tuyến. Nhiều xổ số chính thức cung cấp vé trực tuyến thông qua trang web hoặc ứng dụng di động, nhưng bạn phải là công dân của quốc gia được đề cập để tham gia.</string>
+<string name="gp4">Nhiều cuộc rút thăm xổ số được phát trên truyền hình, mặc dù việc kiểm tra các con số trên trang web hoặc ứng dụng di động có thể thuận tiện hơn. Mỗi xổ số có thời gian quay thưởng riêng và bạn có thể chơi trong đêm khuya khoắt nếu chơi trực tuyến từ một múi giờ khác.</string>
+<string name="gp5">Bạn đã kiểm tra kỹ số của mình và nhận ra mình đã trúng giải! Xin chúc mừng. Thủ tục nhận giải thưởng của bạn rất đơn giản.
+Hãy nhớ rằng mọi xổ số đều có thời hạn thanh toán, trong khoảng từ 30 đến 180 ngày. Các giải thưởng nhỏ hơn có thể được nhận từ người bán hoặc tự động chuyển cho bạn khi bạn chơi trực tuyến.</string>
+
+<string name="mr1">Tham gia xổ số kiến thiết Việt Nam</string>
+    <string name="mr2">Một trong những trò tiêu khiển yêu thích của người dân là chơi xổ số. Những ai muốn hòa mình trọn vẹn vào văn hóa Việt Nam nên học cách chơi xổ số truyền thống của Việt Nam, đặc biệt là khi những người buôn bán xổ số tràn ngập đường phố. Mỗi ngày trước 3 giờ chiều, những người bán hàng này phải bán hết vé. Những cá nhân này bán vé với lợi nhuận vài xu hoặc 10% giá vé.</string>
+<string name="mr3">Trò chơi xổ số</string>
+<string name="mr4">Trò chơi xổ số là trò chơi phổ biến nhất trong Xổ số Việt Nam, chiếm tới 40% tổng thu nhập từ xổ số. Vì nó tương đối đơn giản để chơi, nhiều người dân địa phương và thậm chí cả người nước ngoài tham gia trò chơi xổ số. Người chơi chọn số của họ và tiền thưởng được xác định bởi số lượng trùng khớp. Nếu không có ai trúng giải độc đắc, nó sẽ được chuyển sang kỳ quay thưởng tiếp theo, có khả năng tăng giải thưởng lên hàng tỷ đô la!</string>
+<string name="mr5">Trò chơi xổ số các chữ số</string>
+<string name="mr6">Đây là một loại hình xổ số hiện đại hơn khá phổ biến trên toàn thế giới. Con số này đóng góp khoảng 7% tổng thu nhập từ xổ số của Việt Nam. Người chơi chọn các số từ 0 đến 9 để tạo ra kết hợp chiến thắng trong loại hình xổ số này.</string>
+<string name="mr7">Trò chơi rút thăm nhanh</string>
+<string name="mr8">Trò chơi xổ số nhanh này, còn được gọi là Keno trên khắp thế giới, là trò chơi được người Việt Nam yêu thích, chiếm khoảng 6% tổng thu nhập từ xổ số. Bởi vì nó cung cấp các hình vẽ thường xuyên hơn, nó được những người chơi xổ số nghiêm túc ưa thích.
+Mặc dù cơ cấu giải thưởng khác nhau, trò chơi rút thăm nhanh rất đơn giản để chơi. Người chơi chỉ cần chọn những con số yêu thích của họ và số tiền họ muốn đặt cược. Họ phải đặt cược trước khi trận hòa bắt đầu. Bởi vì việc rút thăm có thể diễn ra trong vài phút, không có gì lạ khi nhìn thấy những người chơi xổ số xếp hàng dài trong các quầy xổ số.</string>
+
+<string name="ab1">Xổ số quốc gia</string>
+<string name="ab2">Xổ số Việt Nam không chỉ là một nguồn giải trí mà còn là một nguồn thu cho chính phủ, giúp cải thiện phúc lợi xã hội. Mỗi tờ vé số có giá 10.000 đồng. Bạn có thể mua bao nhiêu tùy thích. Mỗi ngày vào buổi chiều, giải thưởng được công bố.</string>
+<string name="ab3">Ở Việt Nam, bạn chơi xổ số như thế nào?</string>
+<string name="ab4">Tổng công ty "Hà Nội" có 27 chuỗi số, trong khi các công ty khác chỉ có 18. Bạn phải ghi các chuỗi số và loại cược khi đặt cược vào một tờ vé số. Bạn giành được giải thưởng liên quan nếu bạn đặt cược vào chuỗi số thích hợp ở đúng vị trí.</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
